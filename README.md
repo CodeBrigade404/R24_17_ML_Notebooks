@@ -2,11 +2,11 @@
 
 ## Intro
 
-These are the notebook files we used to generate our ML/DL Models
+These are the notebook files we used to generate our ML/DL Models.
 
 ## Contained Notebooks
 
-[X] voice command detection model training notebook
-[X] Hazzard detection model training notebook
-[X] Environment Audio detection notebook
-[X] Templete generating model training notebook
+- [x] Voice command detection model training notebook
+- [x] Hazard detection model training notebook
+- [x] Environment audio detection notebook
+- [x] Template generating model training notebook
