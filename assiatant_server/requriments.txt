@@ -1,0 +1,6 @@
+python-dotenv
+openai
+flask
+flask_jwt_extended
+pymongo[srv]
+
