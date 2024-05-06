@@ -1,6 +1,6 @@
 # R24-17-ML_Notebooks
 
-## Intro
+## Description
 
 These are the notebook files we used to generate our ML/DL Models.
 
